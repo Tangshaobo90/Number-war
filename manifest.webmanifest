@@ -1,0 +1,16 @@
+{
+  "name": "唐少博的数字战争",
+  "short_name": "数字战争",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#8ed9ff",
+  "theme_color": "#8ed9ff",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
